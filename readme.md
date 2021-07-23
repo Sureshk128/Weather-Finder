@@ -1,0 +1,2 @@
+It is a progressive web app which is used for finding the weather of any place. Firstly it shows the weather of your current location and by using search box you can search for any place.
+Technology Used :- Html, Css , javascript ,api of "https://openweathermap.org/" for fetching the weather info using geometrical coordinates for current location and city name for searching using names.. 
